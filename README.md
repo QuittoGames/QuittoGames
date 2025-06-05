@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 # 👩🏻‍💻 Olá, eu sou o **Quitto** 👋
 
-**15 anos | Dev | [Germinare TECH](https://institutojef.org.br/escolas/tech/)**
-=======
-# Olá, eu sou o **Quitto** 👋
-
-**15 anos | Desenvolvedor de Software em formação | [Germinare TECH](https://institutojef.org.br/escolas/tech/)**
->>>>>>> b0e8761a178c22f6c6120c1152878ae5774273b0
+**15 anos | Dev | <img src="/icons/germinae_tech.png" alt="Germinare TECH" height="20"/> [Germinare TECH](https://institutojef.org.br/escolas/tech/)**
 
 [Portifolio (Desatalizado)](https://quitto.vercel.app/)
 
 (Antes que vire moda eu gosto de: **Python** E **Java**)
-
