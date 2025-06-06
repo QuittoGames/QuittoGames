@@ -4,7 +4,6 @@
 
 [🚀Portifolio (Desatalizado)](https://quitto.vercel.app/)
 
-
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
@@ -19,7 +18,7 @@
   <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </p>
 
-<br></br>
+
 
 ### 📊 Estatísticas
 
