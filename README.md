@@ -43,11 +43,11 @@
 <!-- Top Languages -->
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=QuittoGames&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&border_radius=10&hide_border=true" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=QuittoGames&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&border_radius=10&hide_border=true&locate=pt-br" 
     media="(prefers-color-scheme: dark)" 
   />
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=QuittoGames&layout=compact&langs_count=8&theme=vue&custom_title=Linguagens%20mais%20usadas&border_radius=10&hide_border=true" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=QuittoGames&layout=compact&langs_count=8&theme=vue&custom_title=Linguagens%20mais%20usadas&border_radius=10&hide_border=true&locate=pt-br" 
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
   />
   <img 
