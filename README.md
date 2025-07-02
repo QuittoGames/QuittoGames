@@ -25,7 +25,7 @@
 <!-- GitHub Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=QuittoGames&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&border_radius=10&hide_border=true" 
+    srcset="https://github-readme-stats.vercel.app/api?username=QuittoGames&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=percentile&custom_title=Estatísticas%20do%20GitHub&border_radius=10&hide_border=true" 
     media="(prefers-color-scheme: dark)" 
   />
   <source 
@@ -42,7 +42,7 @@
 <!-- Top Languages -->
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=QuittoGames&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&border_radius=10&hide_border=true&locate=pt-br" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=QuittoGames&layout=compact&langs_count=8&theme=github_dark&custom_title=Linguagens%20mais%20usadas&border_radius=10&hide_border=true&locate=pt-br" 
     media="(prefers-color-scheme: dark)" 
   />
   <source 
@@ -55,6 +55,9 @@
     height="200"
   />
 </picture>
+
+![Quitto GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=QuittoGames&theme=github_dark)
+
 
 <br></br>
 
